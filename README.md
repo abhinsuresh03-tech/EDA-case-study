@@ -1,4 +1,4 @@
-Exploratory Data Analysis (EDA) - Banking Customer Dataset Case Study
+**Exploratory Data Analysis (EDA) - Banking Customer Dataset Case Study**
 
 This repository contains an end-to-end Exploratory Data Analysis (EDA) performed on a banking client dataset (Banking.csv) containing 3,000 unique client profiles. The primary goal of this project is to understand customer demographics, segment behaviors, analyze financial asset distribution, and uncover actionable insights to optimize loyalty tracking, risk assessment, and financial product offerings.
 
